@@ -56,3 +56,6 @@ node textgen.js
 ```
 
 created image will be saved in `imgs/` directory.
+
+
+brother i am ruwan, can you send your model. it is really help to me. thank you
